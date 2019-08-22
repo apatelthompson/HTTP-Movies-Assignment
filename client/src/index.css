@@ -75,3 +75,23 @@ body {
   color: red;
   text-align: center;
 }
+
+.edit-button {
+  top: 25px;
+  right: 25px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: pink;
+  border-radius: 5px;
+  width: 40px;
+}
+
+.delete-button {
+  top: 25px;
+  right: 25px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: violet;
+  border-radius: 5px;
+  width: 40px;
+}
